@@ -67,7 +67,7 @@ Ejemplo:
 ```
 --- 
 
-### 📂 Archivos de entrada
+## 📂 Archivos de entrada
 
 - Los proveedores leen sus productos desde ficheros de texto con nombres como:
 
@@ -82,7 +82,7 @@ proveedor2.dat
 
 ---
 
-### 📊 Salida
+## 📊 Salida
 
 - El programa genera un fichero de salida con:
 - Estadísticas de cada proveedor:
