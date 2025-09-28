@@ -106,3 +106,19 @@ proveedor2.dat
   - Distribución por proveedor.
 
   - Cliente que más ha consumido.
+ 
+  ---
+
+##  ✨ Aprendizaje
+
+- Con este proyecto se practicaron conceptos de:
+
+  - Sincronización de hilos con semáforos.
+
+  - Implementación del problema productor–consumidor.
+
+  - Uso de buffer circular en memoria compartida.
+
+  - Manejo de estructuras dinámicas (lista enlazada).
+
+  - Procesamiento concurrente y coordinación entre múltiples roles (proveedor, consumidor y facturador).
