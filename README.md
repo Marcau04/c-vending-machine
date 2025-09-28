@@ -47,6 +47,7 @@ El sistema coordina la interacción de **proveedores** que insertan productos en
 gcc bendingmachine.c -o vending -lpthread
 ```
 ### Ejecución
+```bash
 ./vending <carpeta_proveedores> <fichero_salida> <T> <P> <C>
 
 
@@ -59,7 +60,8 @@ gcc bendingmachine.c -o vending -lpthread
 <P> → Número de proveedores (1–7).
 
 <C> → Número de consumidores (1–1000).
-
+```
 Ejemplo:
-
+```bash
 ./vending ./proveedores salida.txt 100 3 5
+```
