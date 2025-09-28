@@ -71,9 +71,9 @@ Ejemplo:
 
 - Los proveedores leen sus productos desde ficheros de texto con nombres como:
 
-proveedor0.dat
-proveedor1.dat
-proveedor2.dat
+  - proveedor0.dat
+  - proveedor1.dat
+  - proveedor2.dat
 ...
 
 - Cada archivo contiene una **secuencia de caracteres entre `'a'` y `'j'`** (productos válidos).  
