@@ -65,6 +65,8 @@ Ejemplo:
 ```bash
 ./vending ./proveedores salida.txt 100 3 5
 ```
+--- 
+
 ### 📂 Archivos de entrada
 
 Los proveedores leen sus productos de archivos con formato:
