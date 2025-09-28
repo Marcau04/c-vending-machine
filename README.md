@@ -45,7 +45,7 @@ El sistema coordina la interacción de **proveedores** que insertan productos en
 ### Compilación
 ```bash
 gcc bendingmachine.c -o vending -lpthread
-
+```
 ### Ejecución
 ./vending <carpeta_proveedores> <fichero_salida> <T> <P> <C>
 
