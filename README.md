@@ -85,24 +85,24 @@ proveedor2.dat
 ### 📊 Salida
 
 - El programa genera un fichero de salida con:
-1 Estadísticas de cada proveedor:
+- Estadísticas de cada proveedor:
 
-  1.1 Productos procesados.
+  - Productos procesados.
 
-  1.2 Productos válidos/ inválidos.
+  - Productos válidos/ inválidos.
 
-  1.3 Productos insertados en el buffer.
+  - Productos insertados en el buffer.
 
-2 Estadísticas de cada consumidor:
+- Estadísticas de cada consumidor:
 
-  2.1 Total consumido.
+  - Total consumido.
 
-  2.2 Distribución por tipo de producto.
+  - Distribución por tipo de producto.
 
-3 Resumen final (facturador):
+- Resumen final (facturador):
 
-  3.1 Total de productos consumidos.
+  - Total de productos consumidos.
 
-  3.2 Distribución por proveedor.
+  - Distribución por proveedor.
 
-  3.3 Cliente que más ha consumido.
+  - Cliente que más ha consumido.
