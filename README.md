@@ -79,3 +79,30 @@ proveedor2.dat
 - Cada archivo contiene una **secuencia de caracteres entre `'a'` y `'j'`** (productos válidos).  
 - Cualquier otro carácter se considera **producto inválido**.  
 - ⚠️ **Todos los archivos de entrada deben estar dentro del mismo directorio**, el cual se pasa como parámetro `
+
+---
+
+### 📊 Salida
+
+- El programa genera un fichero de salida con:
+1. Estadísticas de cada proveedor:
+
+1.1. Productos procesados.
+
+1.2. Productos válidos/ inválidos.
+
+1.3. Productos insertados en el buffer.
+
+2. Estadísticas de cada consumidor:
+
+2.1. Total consumido.
+
+2.2. Distribución por tipo de producto.
+
+3. Resumen final (facturador):
+
+3.1 Total de productos consumidos.
+
+3.2 Distribución por proveedor.
+
+3.3 Cliente que más ha consumido.
