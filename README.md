@@ -65,3 +65,18 @@ Ejemplo:
 ```bash
 ./vending ./proveedores salida.txt 100 3 5
 ```
+### 📂 Archivos de entrada
+
+Los proveedores leen sus productos de archivos con formato:
+```bash
+proveedor0.dat
+proveedor1.dat
+proveedor2.dat
+...
+```
+
+- Cada archivo contiene una secuencia de caracteres entre 'a' y 'j' (productos válidos).
+
+- Cualquier otro carácter se considera producto inválido.
+
+- Todos los archivos de entrada deben estar dentro del mismo directorio
