@@ -45,3 +45,21 @@ El sistema coordina la interacción de **proveedores** que insertan productos en
 ### Compilación
 ```bash
 gcc bendingmachine.c -o vending -lpthread
+
+### Ejecución
+./vending <carpeta_proveedores> <fichero_salida> <T> <P> <C>
+
+
+<carpeta_proveedores> → Carpeta donde están los ficheros proveedor0.dat, proveedor1.dat, etc.
+
+<fichero_salida> → Fichero donde se guardará el informe final (puede estar previamente creado o no, pero en caso de estar creado se borrará los datos que este contenga).
+
+<T> → Tamaño del buffer (1–5000).
+
+<P> → Número de proveedores (1–7).
+
+<C> → Número de consumidores (1–1000).
+
+Ejemplo:
+
+./vending ./proveedores salida.txt 100 3 5
