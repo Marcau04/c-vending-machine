@@ -69,7 +69,7 @@ Ejemplo:
 
 ### 📂 Archivos de entrada
 
-Los proveedores leen sus productos desde ficheros de texto con nombres como:
+- Los proveedores leen sus productos desde ficheros de texto con nombres como:
 
 proveedor0.dat
 proveedor1.dat
