@@ -122,3 +122,13 @@ Ejemplo:
   - Manejo de estructuras dinámicas (lista enlazada).
 
   - Procesamiento concurrente y coordinación entre múltiples roles (proveedor, consumidor y facturador).
+ 
+---
+
+## 👥 Autores
+
+- Proyecto desarrollado en colaboración por:
+
+  - Marcos Alonso Ulloa
+
+  - Gonzalo Sánchez Maroto
